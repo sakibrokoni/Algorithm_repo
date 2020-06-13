@@ -1,2 +1,2 @@
-# sample_algorithm_repo
+#Algorithm_repo
 This is a sample repo.
