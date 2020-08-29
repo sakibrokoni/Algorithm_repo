@@ -1,5 +1,10 @@
 CSE214-Algorithm
 
+
+Problem Set 1 
+[Theory]:
+-Task 1-8
+
 Week 03:
 -Linear search
 -Binnary search
@@ -25,8 +30,6 @@ Week 07:
 Week 08:
 -Depth First Search 
 
-Problem Set 1 
-[Theory]:
--Task 1-8
+
 
 
