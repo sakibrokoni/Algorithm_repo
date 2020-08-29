@@ -1,7 +1,7 @@
 CSE214-Algorithm
 
 Comarative Study on Differnt Algorithm
-[Presentation Link]{https://drive.google.com/file/d/1ImpvTScIhlAxOPQIjmAQYbR8Jyrye0pp/view?fbclid=IwAR0KvtYUVHnOWDjhiCMRPOzm-4W-o1Ao7vMNcMjBVwcDkU09TkttXDsB2LI}
+[PresentationLink]{https://drive.google.com/file/d/1ImpvTScIhlAxOPQIjmAQYbR8Jyrye0pp/view?fbclid=IwAR0KvtYUVHnOWDjhiCMRPOzm-4W-o1Ao7vMNcMjBVwcDkU09TkttXDsB2LI}
 
 Problem Set 1 
 [Theory]:
