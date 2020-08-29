@@ -1,6 +1,8 @@
 CSE214-Algorithm
 
 
+Comarative Study on Differnt Algorithm
+
 Problem Set 1 
 [Theory]:
 -Task 1-8
